@@ -1,3 +1,4 @@
+#Area and perimeter of a rectangle
 lenght = float(input())
 breadth = float(input())
 area = lenght*breadth
